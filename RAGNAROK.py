@@ -11,7 +11,7 @@ import datetime
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot tokSasen here
-bot = telebot.TeleBot('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
+bot = teleBot('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
 
 # Admin user IDs
 admin_id = ["7303380062"]
