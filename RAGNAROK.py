@@ -7,11 +7,13 @@ import os
 import random
 import string
 import datetime
+from config import BOT_TOKEN, ADMIN_IDS, OWNER_USERNAME
+
 
 from keep_alive import keep_alive
 keep_alive()
 # insert your Telegram bot tokSasen here
-bot = teleBot('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
+bot = ('7399367017:AAGNMrzq3FXrpyg-tIXwFx1qeVUrGsd8G-8')
 
 # Admin user IDs
 admin_id = ["7303380062"]
